@@ -1,2 +1,2 @@
 # adblock-pro-privacy
-Privacy Policy for AdBlock Pro Extension
+AdBlock Pro - Fast & Lightweight Ad Blocker for Chrome
